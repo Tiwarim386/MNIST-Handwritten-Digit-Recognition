@@ -9,3 +9,7 @@ Each image is 28 pixels in height and 28 pixels in width, for a total of 784 pix
 
 
 A very simple neural network implemented in python using Stochastic Gradient Descent and Backpropagation.
+
+## Output 
+
+![output_12_0.png](output_12_0.png)
